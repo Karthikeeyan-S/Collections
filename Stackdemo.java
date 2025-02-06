@@ -19,6 +19,7 @@ class Stackdemo
 		showPush(s,10);
 		showPush(s,20);
 		showPush(s,30);
+		System.out.println(s);
 		
 		showPop(s);
 		showPop(s);
