@@ -36,6 +36,6 @@ class TreeSetDemo
 		{
 			System.out.println(it1.next());
 		}
-		
+	
 	}
 }
